@@ -1,29 +1,19 @@
-# cambia-app
+# Hackathon Talent Land 2022 - Proyecto Cambia con Citibanamex
 
-This template should help get you started developing with Vue 3 in Vite.
+Integrantes:
 
-## Recommended IDE Setup
+Alan Badillo
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Eduardo Badillo
 
-## Customize configuration
+Marisol Romero
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+## Aplicación
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![f1](./docs/screenshots/f1.png)
+![f2](./docs/screenshots/f2.png)
+![f3](./docs/screenshots/f3.png)
+![f4](./docs/screenshots/f4.png)
+![f5](./docs/screenshots/f5.png)
+![f6](./docs/screenshots/f6.png)
+![f7](./docs/screenshots/f7.png)
