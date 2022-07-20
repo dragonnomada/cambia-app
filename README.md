@@ -1,12 +1,10 @@
 # Hackathon Talent Land 2022 - Proyecto Cambia con Citibanamex
 
-Integrantes:
-
-Alan Badillo
-
-Eduardo Badillo
-
-Marisol Romero
+> Alan Badillo
+>
+> Eduardo Badillo
+>
+> Marisol Romero
 
 ## Aplicación
 
